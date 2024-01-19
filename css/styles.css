@@ -485,7 +485,7 @@ img{
  background-color: transparent;
 }
 
-.modal-footer:;::placeholder{
+.modal-footer::placeholder{
   color: #FFF;
  font-family: inherit;
   font-size: 12px;
