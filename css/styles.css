@@ -722,7 +722,7 @@ img{
 }
 
 .check-input:checked + .check-text span {
-  background-color:#4d5ae5;
+  background-color:#404bbf;
   border: none;
   fill: #F4F4FD;
 }
