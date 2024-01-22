@@ -472,7 +472,7 @@ img{
 }
 
 .footer-form-btn{
-  margin-left: 80px; 
+  margin-left: auto; 
 }
 
 .modal-footer {
@@ -570,7 +570,7 @@ img{
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  margin-top: 48px;
+  
   margin-bottom: 16px;
 }
 
@@ -610,12 +610,7 @@ img{
   margin-bottom:8px;
 }
 
-.modal-form{
- display: flex;
- flex-direction: column;
- padding: 8px;
- max-width: 360px;
-}
+.modal-form{}
 
 .modal-label{
   width: 41px;
@@ -674,6 +669,7 @@ img{
 }
 
 .modal-text{
+  display: block;
   width: 100%;
   height: 120px;
   font-size: 12px;
